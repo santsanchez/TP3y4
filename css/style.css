@@ -1,0 +1,367 @@
+
+
+.container {
+	max-width: 1170px;
+	margin: auto;
+	
+}
+
+.barranav {
+	height: 119px;
+}
+
+.logo {
+	margin: 40px 0px;
+}
+nav a {
+	text-decoration: none;
+	color: #a9acb1;
+	font-size: 12px;
+	letter-spacing: 2px;
+}
+
+nav a:hover {
+	color:#000000;
+}
+
+.botonesnav {
+	float: right;
+	margin: 50px 100px;
+}
+
+.botonesnav li {
+	display:inline;
+	text-transform: uppercase;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 700;
+	color: blue;
+	margin: 20px;
+	font-size: 12px;
+}
+
+.header{
+	background-image: url('../imagen/indexbanner-bg3.jpg');
+    height: 588px;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.textoportada h1 {
+	color: #ffffff;
+	font-size: 35px;
+	font-family: Raleway, sans-serif;
+	font-weight: 700;
+}
+
+.textoportada p {
+	color: #ffffff;
+	font-size: 16px;
+	font-family: "Open Sans", sans-serif;
+	margin-top: 20px;
+	color: #a6afb4;
+	line-height: 25px;
+}
+
+.textoportada {
+	position: relative;
+	top: 200px;
+	left: 100px;
+}
+
+.search {
+	width:80%;
+	height: 103px;
+	display:inline;
+	border:none;
+	font-family: "Open Sans", sans-serif;
+	color: #acadaf;
+	padding: 20px;
+	font-size: 18px;
+	box-shadow: 3px 3px rgba(0,0,0,0.1)
+}
+
+.botonsearch {
+	background-color: #00adf2;
+	height: 105px;
+	width:15%;
+    background-image: url('../imagen/icons/search.png');
+    background-repeat: no-repeat;
+	background-position: 30px 45px;
+	border: none;
+    display:inline;
+    margin-left: -4px;
+    font-family: "Open Sans", sans-serif;
+    color:#fff;
+    font-size: 15px;
+    font-weight: 700;
+    
+}
+
+.barrabusqueda {
+	position: relative;
+	top: -50px;
+}
+
+.caja h2 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 18px;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 2px;
+	margin: 10px 0px 20px 0px;
+}
+
+.caja p {
+	font-family: "Raleway", sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+}
+
+.uno, .dos, .tres, .cuatro {
+	width: 225px;
+	height: 250px;
+	text-align: center;
+	display: inline-block;
+	margin: 20px 30px;
+
+}
+
+.cajacelular {
+	text-align: center;
+}
+
+.cajacelular h2 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 40px;
+	font-weight: 700;
+	margin: 30px 0px;
+}
+
+.cajacelular h3 {
+	font-family: Raleway, sans-serif;
+	font-size: 18px;
+	color: #7c7c7e;
+	margin-bottom: 80px;
+}
+
+.celularizq {
+	float:left;
+	text-align: right;
+	left: 35px;
+	position:relative;
+	margin-top: 40px;
+}
+
+.celularder {
+	float:right;
+	text-align: left;
+	margin-top: 40px;
+}
+
+.celularizq h2 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 2px
+}
+
+.celularder h2 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 2px
+}
+
+.imagenizquierda {
+	position:relative;
+	left:80px;
+	bottom:90px;
+	}
+
+.imagenderecha {
+	position:relative;
+	right:80px;
+	bottom:90px;
+}
+
+.pricing {
+	background-image: url('../imagen/pricing-bg.jpg');
+	background-repeat: no-repeat;
+	height: 450px;
+    background-size: cover;
+    margin-top: -80px;
+}
+
+.ptable {
+	position: relative;
+	top: 130px;
+	text-align: center
+}
+
+.ptable h2 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 40px;
+	font-weight: 700;
+	margin: 30px 0px;
+}
+
+.ptable h3 {
+	font-family: Raleway, sans-serif;
+	font-size: 18px;
+	color: #7c7c7e;
+}
+
+.one, .two, .three, .four {
+	width: 270px;
+	height: 425px;
+	text-align: center;
+	display: inline-block;
+	box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.1);
+	margin-top: -100px;
+	background-color: #fff;
+	position: relative;
+
+}
+
+tr, td {
+	text-align: left;
+	padding:10px;
+}
+
+
+table {
+	text-align: center;
+	display:inline-block;
+	font-family: Raleway, sans-serif;
+	margin-top: 60px
+}
+
+.precios h2 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 16px;
+	font-weight:600;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	margin-top: 80px;
+	margin-bottom: 15px;
+}
+
+.precios h3 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 40px;
+	font-weight: 800
+}
+
+.precios h4 {
+	font-family: Raleway, sans-serif;
+	font-size: 12px;
+}
+
+.azul {
+	color:#25d4f3;
+	padding-left: 50px
+}
+
+.boton {
+	display:inline-block;
+	background-color: #01b0f3;
+	width:200px;
+	height:30px;
+	border-radius: 5px;
+	margin-top: 10px;
+	padding: 6px;
+	box-sizing:border-box;
+	font-family: "Open Sans", sans-serif;
+	letter-spacing: 2px;
+	font-size: 13px;
+}
+
+.boton a {
+	text-decoration: none;
+	color: #fff;
+}
+.two {
+	position:relative;
+	left: 300px;
+	bottom: 325px;
+}
+
+.yellow {
+	color:#f7d801;
+	padding-left: 50px
+}
+
+.three {
+	position:relative;
+	left:600px;
+	bottom: 650px
+}
+
+.orange {
+	color:#ff964d;
+	padding-left: 50px
+}
+
+.four {
+	position:relative;
+	left:900px;
+	bottom: 975px;
+}
+
+.red {
+	color:#feb491;
+	padding-left: 50px
+}
+
+.precios {
+	height: 500px;
+}
+
+.barraazul {
+	width:100%;
+	height: 300px;
+	background-color:#142e3f;
+	box-sizing:border-box
+}
+
+.barraazul h2{
+	padding: 120px 0px;
+	text-align: center;
+	font-family: "Open Sans", sans-serif;
+	font-size: 40px;
+	color: #fff;
+}
+
+footer {
+	width:100%;
+	height: 70px;
+	background-color: #091722
+}
+
+footer p {
+	font-family: "Open Sans", sans-serif;
+	color: #fff;
+	padding: 25px;
+	display: inline-block;
+}
+
+footer ul {
+	float:right;
+	padding:25px;
+
+}
+
+footer li {
+	display:inline-block;
+	font-family: "Open Sans", sans-serif;
+	font-size: 12px;
+	letter-spacing: 1px;
+	word-spacing: 15px;
+}
+
+footer li a {
+	text-decoration: none;
+	color: #fff;
+}
